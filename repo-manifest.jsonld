@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/kivy/kivy-sdk-packager/commit/8c7b6d2c8ff04460c604eb0a7d460a70f29d669e",
       "git:hexsha": "8c7b6d2c8ff04460c604eb0a7d460a70f29d669e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "org": "kivy",
+  "repo": "kivy-sdk-packager",
+  "versions": [
+    {
+      "commit": "8c7b6d2c8ff04460c604eb0a7d460a70f29d669e",
+      "tag": "",
+      "parsed_at": "2026-11-07T11:52:09.148720+00:00"
+    }
+  ]
+}
